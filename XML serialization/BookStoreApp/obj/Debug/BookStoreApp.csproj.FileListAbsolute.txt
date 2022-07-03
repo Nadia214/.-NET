@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BookStoreApp\BookStoreApp\bin\Debug\BookStoreApp.exe.config
+C:\Users\HP\source\repos\BookStoreApp\BookStoreApp\bin\Debug\BookStoreApp.exe
+C:\Users\HP\source\repos\BookStoreApp\BookStoreApp\bin\Debug\BookStoreApp.pdb
+C:\Users\HP\source\repos\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.exe
+C:\Users\HP\source\repos\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.pdb
